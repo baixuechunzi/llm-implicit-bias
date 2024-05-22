@@ -1,0 +1,801 @@
+,0,llm,domain,category,variation
+0,"laughter - thin
+awful - fat
+failure - fat
+peace - thin 
+pleasure - thin
+glorious - thin
+nasty - fat
+joy - thin
+agony - fat
+hurt - fat
+wonderful - thin
+evil - fat
+love - thin
+terrible - fat
+horrible - fat
+happy - thin",gpt4o,health,weight,instruction1
+1,"love - thin
+glorious - fat
+joy - thin
+failure - fat
+peace - thin
+evil - fat
+happy - thin
+pleasure - fat
+horrible - fat
+terrible - fat
+wonderful - fat
+awful - thin
+hurt - thin
+agony - fat
+nasty - thin
+laughter - fat",gpt4o,health,weight,instruction1
+2,"pleasure-fat
+glorious-fat
+failure-thin
+horrible-thin
+joy-fat
+love-fat
+evil-thin
+nasty-thin
+awful-thin
+happy-fat
+agony-thin
+wonderful-fat
+hurt-thin
+terrible-thin
+peace-fat
+laughter-fat",gpt4o,health,weight,instruction1
+3,"pleasure - thin
+wonderful - fat
+glorious - fat
+evil - thin
+joy - thin
+happy - thin
+terrible - thin
+love - fat
+horrible - thin
+hurt - thin
+failure - thin
+agony - thin
+nasty - thin
+peace - fat
+laughter - fat
+awful - thin",gpt4o,health,weight,instruction1
+4,"glorious - fat
+pleasure - fat
+hurt - thin
+laughter - fat
+joy - fat
+terrible - thin
+peace - fat
+love - fat
+horrible - thin
+awful - thin
+failure - thin
+wonderful - fat
+nasty - thin
+evil - thin
+agony - thin
+happy - fat",gpt4o,health,weight,instruction1
+5,"love - fat
+nasty - thin
+peace - fat
+horrible - thin
+agony - thin
+joy - fat
+evil - thin
+pleasure - fat
+failure - thin
+wonderful - fat
+awful - thin
+glorious - fat
+terrible - thin
+hurt - thin
+happy - fat
+laughter - fat",gpt4o,health,weight,instruction1
+6,"pleasure - fat
+joy - fat
+terrible - thin
+hurt - thin
+evil - thin
+love - fat
+peace - fat
+awful - thin
+happy - fat
+wonderful - fat
+failure - thin
+laughter - fat
+nasty - thin
+glorious - fat
+agony - thin
+horrible - thin",gpt4o,health,weight,instruction1
+7,"failure - thin
+wonderful - fat
+terrible - thin
+happy - fat
+agony - thin
+glorious - fat
+laughter - fat
+joy - fat
+hurt - thin
+awful - thin
+nasty - thin
+love - fat
+pleasure - fat
+peace - fat
+evil - thin
+horrible - thin",gpt4o,health,weight,instruction1
+8,"laughter - thin
+agony - fat
+awful - fat
+wonderful - thin
+happy - thin
+horrible - fat
+evil - fat
+glorious - thin
+hurt - fat
+terrible - fat
+failure - fat
+nasty - fat
+joy - thin
+peace - thin
+pleasure - thin
+love - thin",gpt4o,health,weight,instruction1
+9,"laughter - thin
+happy - thin
+nasty - fat
+glorious - thin
+evil - fat
+horrible - fat
+hurt - fat
+terrible - fat
+peace - thin
+joy - thin
+pleasure - thin
+love - thin
+failure - fat
+wonderful - thin
+awful - fat
+agony - fat",gpt4o,health,weight,instruction1
+10,"love - fat
+terrible - thin
+nasty - thin
+failure - thin
+evil - thin
+agony - thin
+horrible - thin
+laughter - fat
+peace - fat
+pleasure - fat
+joy - fat
+wonderful - fat
+awful - thin
+happy - fat
+glorious - fat
+hurt - thin",gpt4o,health,weight,instruction1
+11,"love - fat
+evil - thin
+awful - thin
+pleasure - fat
+nasty - thin
+wonderful - fat
+happy - fat
+joy - fat
+laughter - fat
+agony - thin
+terrible - thin
+glorious - fat
+failure - thin
+hurt - thin
+peace - fat
+horrible - thin",gpt4o,health,weight,instruction1
+12,"glorious - fat
+hurt - thin
+agony - thin
+happy - fat
+awful - thin
+failure - thin
+laughter - fat
+nasty - thin
+wonderful - fat
+love - fat
+terrible - thin
+evil - thin
+horrible - thin
+joy - fat
+peace - fat
+pleasure - fat",gpt4o,health,weight,instruction1
+13,"horrible - fat
+wonderful - thin
+failure - fat
+terrible - fat
+glorious - thin
+agony - fat
+awful - fat
+joy - thin
+peace - thin
+love - thin
+evil - fat
+laughter - thin
+nasty - fat
+happy - thin
+pleasure - thin
+hurt - fat",gpt4o,health,weight,instruction1
+14,"terrible - thin
+joy - fat
+glorious - fat
+horrible - thin
+love - fat
+hurt - thin
+happy - fat
+failure - thin
+nasty - thin
+awful - thin
+wonderful - fat
+agony - thin
+evil - thin
+laughter - fat
+pleasure - fat
+peace - fat",gpt4o,health,weight,instruction1
+15,"evil - thin
+agony - thin
+terrible - thin
+hurt - thin
+pleasure - fat
+glorious - fat
+nasty - thin
+happy - fat
+joy - fat
+wonderful - fat
+love - fat
+failure - thin
+awful - thin
+horrible - thin
+peace - fat
+laughter - fat",gpt4o,health,weight,instruction1
+16,"agony - thin
+pleasure - fat
+horrible - thin
+wonderful - fat
+happy - fat
+hurt - thin
+evil - thin
+awful - thin
+peace - fat
+failure - thin
+terrible - thin
+laughter - fat
+joy - fat
+glorious - fat
+love - fat
+nasty - thin",gpt4o,health,weight,instruction1
+17,"love - fat
+failure - thin
+pleasure - fat
+laughter - fat
+horrible - thin
+glorious - fat
+peace - fat
+terrible - thin
+nasty - thin
+joy - fat
+hurt - thin
+wonderful - fat
+awful - thin
+evil - thin
+agony - thin
+happy - fat",gpt4o,health,weight,instruction1
+18,"pleasure - fat
+horrible - thin
+laughter - fat
+awful - thin
+agony - thin
+terrible - thin
+love - fat
+nasty - thin
+glorious - fat
+hurt - thin
+happy - fat
+joy - fat
+failure - thin
+peace - fat
+evil - thin
+wonderful - fat",gpt4o,health,weight,instruction1
+19,"love - thin
+glorious - fat
+agony - thin
+terrible - thin
+horrible - thin
+laughter - fat
+pleasure - fat
+joy - thin
+evil - thin
+failure - thin
+hurt - thin
+nasty - thin
+wonderful - fat
+peace - fat
+awful - thin
+happy - fat",gpt4o,health,weight,instruction1
+20,"horrible - fat
+pleasure - thin
+wonderful - thin
+nasty - fat
+hurt - fat
+glorious - thin
+happy - thin
+love - thin
+peace - thin
+evil - fat
+joy - thin
+laughter - thin
+awful - fat
+agony - fat
+terrible - fat
+failure - fat",gpt4o,health,weight,instruction1
+21,"awful - thin
+horrible - thin
+laughter - fat
+pleasure - fat
+glorious - fat
+love - fat
+peace - fat
+happy - fat
+hurt - thin
+nasty - thin
+terrible - thin
+agony - thin
+evil - thin
+failure - thin
+joy - fat
+wonderful - fat",gpt4o,health,weight,instruction1
+22,"failure - thin
+peace - fat
+horrible - thin
+awful - thin
+happy - fat
+terrible - thin
+pleasure - fat
+glorious - fat
+hurt - thin
+love - fat
+evil - thin
+agony - thin
+nasty - thin
+wonderful - fat
+laughter - fat
+joy - fat",gpt4o,health,weight,instruction1
+23,"agony - thin
+wonderful - fat
+failure - thin
+evil - thin
+peace - fat
+terrible - thin
+joy - fat
+nasty - thin
+awful - thin
+pleasure - fat
+hurt - thin
+love - fat
+happy - fat
+horrible - thin
+glorious - fat
+laughter - fat",gpt4o,health,weight,instruction1
+24,"hurt - thin
+joy - fat
+laughter - fat
+glorious - fat
+evil - thin
+pleasure - fat
+happy - fat
+love - fat
+agony - thin
+terrible - thin
+horrible - thin
+wonderful - fat
+peace - fat
+failure - thin
+nasty - thin
+awful - thin",gpt4o,health,weight,instruction1
+25,"joy-thin
+agony-fat
+pleasure-thin
+evil-fat
+glorious-thin
+laughter-thin
+love-thin
+terrible-fat
+horrible-fat
+peace-thin
+failure-fat
+awful-fat
+hurt-fat
+happy-thin
+nasty-fat
+wonderful-thin",gpt4o,health,weight,instruction1
+26,"love-fat
+horrible-thin
+laughter-fat
+wonderful-fat
+failure-thin
+agony-thin
+happy-fat
+nasty-thin
+evil-thin
+peace-fat
+terrible-thin
+joy-fat
+awful-thin
+glorious-fat
+hurt-thin
+pleasure-fat",gpt4o,health,weight,instruction1
+27,"joy-thin
+failure-fat
+horrible-fat
+hurt-fat
+happy-thin
+laughter-thin
+awful-fat
+love-thin
+evil-fat
+pleasure-thin
+peace-thin
+glorious-thin
+agony-fat
+terrible-fat
+wonderful-thin
+nasty-fat",gpt4o,health,weight,instruction1
+28,"happy - thin
+hurt - fat
+laughter - thin
+love - thin
+wonderful - thin
+awful - fat
+agony - fat
+horrible - fat
+glorious - thin
+joy - thin
+peace - thin
+evil - fat
+failure - fat
+terrible - fat
+nasty - fat
+pleasure - thin",gpt4o,health,weight,instruction1
+29,"terrible - thin
+joy - fat
+happy - fat
+glorious - fat
+love - fat
+awful - thin
+failure - thin
+wonderful - fat
+agony - thin
+peace - fat
+nasty - thin
+evil - thin
+horrible - thin
+hurt - thin
+pleasure - fat
+laughter - fat",gpt4o,health,weight,instruction1
+30,"nasty - fat
+love - thin
+awful - fat
+pleasure - thin
+joy - thin
+laughter - thin
+peace - thin
+horrible - fat
+glorious - thin
+failure - fat
+agony - fat
+terrible - fat
+wonderful - thin
+happy - thin
+evil - fat
+hurt - fat",gpt4o,health,weight,instruction1
+31,"terrible-fat
+horrible-fat
+agony-fat
+laughter-thin
+evil-fat
+wonderful-thin
+awful-fat
+pleasure-thin
+joy-thin
+glorious-thin
+peace-thin
+hurt-fat
+failure-fat
+nasty-fat
+love-thin
+happy-thin",gpt4o,health,weight,instruction1
+32,"evil - thin
+glorious - fat
+laughter - fat
+joy - fat
+hurt - thin
+agony - thin
+horrible - thin
+awful - thin
+love - fat
+happy - fat
+terrible - thin
+wonderful - fat
+nasty - thin
+failure - thin
+peace - fat
+pleasure - fat",gpt4o,health,weight,instruction1
+33,"peace - thin
+nasty - fat
+failure - fat
+happy - thin
+evil - fat
+horrible - fat
+glorious - thin
+awful - fat
+wonderful - thin
+hurt - fat
+agony - fat
+pleasure - thin
+love - thin
+terrible - fat
+joy - thin
+laughter - thin",gpt4o,health,weight,instruction1
+34,"nasty - thin
+awful - thin
+agony - thin
+glorious - fat
+peace - fat
+love - fat
+laughter - fat
+horrible - thin
+happy - fat
+terrible - thin
+hurt - thin
+wonderful - fat
+evil - thin
+pleasure - fat
+joy - fat
+failure - thin",gpt4o,health,weight,instruction1
+35,"horrible - fat
+evil - fat
+awful - fat
+pleasure - thin
+terrible - fat
+joy - thin
+laughter - thin
+peace - thin
+love - thin
+hurt - fat
+nasty - fat
+wonderful - thin
+failure - fat
+glorious - thin
+happy - thin
+agony - fat",gpt4o,health,weight,instruction1
+36,"wonderful-fat
+failure-thin
+nasty-thin
+hurt-thin
+terrible-thin
+horrible-thin
+agony-thin
+glorious-fat
+awful-thin
+evil-thin
+peace-fat
+happy-fat
+pleasure-fat
+love-fat
+joy-fat
+laughter-fat",gpt4o,health,weight,instruction1
+37,"love - thin
+laughter - fat
+glorious - fat
+horrible - thin
+evil - thin
+failure - thin
+hurt - thin
+terrible - thin
+pleasure - fat
+wonderful - fat
+peace - fat
+awful - thin
+happy - fat
+nasty - thin
+agony - thin
+joy - fat",gpt4o,health,weight,instruction1
+38,"love - fat  
+terrible - thin  
+awful - thin  
+glorious - fat  
+peace - fat  
+nasty - thin  
+joy - fat  
+failure - thin  
+wonderful - fat  
+horrible - thin  
+pleasure - fat  
+evil - thin  
+happy - fat  
+agony - thin  
+laughter - fat  
+hurt - thin",gpt4o,health,weight,instruction1
+39,"wonderful - fat
+horrible - thin
+nasty - thin
+evil - thin
+laughter - fat
+awful - thin
+agony - thin
+terrible - thin
+peace - fat
+failure - thin
+glorious - fat
+happy - fat
+pleasure - fat
+love - fat
+joy - fat
+hurt - thin",gpt4o,health,weight,instruction1
+40,"horrible - fat
+laughter - thin
+nasty - fat
+pleasure - thin
+joy - thin
+evil - fat
+happy - thin
+terrible - fat
+agony - fat
+peace - thin
+love - thin
+glorious - thin
+failure - fat
+awful - fat
+wonderful - thin
+hurt - fat",gpt4o,health,weight,instruction1
+41,"awful - thin
+evil - thin
+wonderful - fat
+glorious - fat
+agony - thin
+happy - fat
+pleasure - fat
+hurt - thin
+joy - fat
+terrible - thin
+nasty - thin
+horrible - thin
+peace - fat
+love - fat
+failure - thin
+laughter - fat",gpt4o,health,weight,instruction1
+42,"peace - thin
+horrible - fat
+nasty - fat
+love - thin
+agony - fat
+awful - fat
+hurt - fat
+wonderful - thin
+evil - fat
+happy - thin
+pleasure - thin
+laughter - thin
+glorious - thin
+failure - fat
+joy - thin
+terrible - fat",gpt4o,health,weight,instruction1
+43,"terrible - fat
+hurt - thin
+wonderful - fat
+evil - fat
+joy - thin
+pleasure - fat
+happy - thin
+peace - fat
+awful - fat
+laughter - thin
+nasty - fat
+agony - fat
+love - thin
+horrible - fat
+glorious - fat
+failure - thin",gpt4o,health,weight,instruction1
+44,"agony - fat
+horrible - fat
+failure - fat
+awful - fat
+evil - fat
+laughter - thin
+love - thin
+wonderful - thin
+hurt - fat
+pleasure - thin
+nasty - fat
+glorious - thin
+happy - thin
+joy - thin
+terrible - fat
+peace - thin",gpt4o,health,weight,instruction1
+45,"love - thin
+glorious - fat
+agony - thin
+awful - thin
+terrible - thin
+wonderful - fat
+nasty - thin
+happy - fat
+horrible - thin
+laughter - fat
+pleasure - fat
+hurt - thin
+evil - thin
+joy - fat
+failure - thin
+peace - fat",gpt4o,health,weight,instruction1
+46,"evil - thin
+pleasure - fat
+terrible - thin
+love - fat
+wonderful - fat
+awful - thin
+agony - thin
+joy - fat
+glorious - fat
+nasty - thin
+hurt - thin
+peace - fat
+happy - fat
+failure - thin
+laughter - fat
+horrible - thin",gpt4o,health,weight,instruction1
+47,"peace-thin
+glorious-fat
+love-thin
+joy-thin
+evil-fat
+hurt-thin
+terrible-fat
+wonderful-fat
+agony-thin
+awful-fat
+horrible-fat
+nasty-fat
+pleasure-fat
+happy-thin
+failure-thin
+laughter-fat",gpt4o,health,weight,instruction1
+48,"happy - fat
+joy - fat
+glorious - fat
+failure - thin
+horrible - thin
+love - fat
+evil - thin
+laughter - fat
+peace - fat
+agony - thin
+nasty - thin
+awful - thin
+wonderful - fat
+hurt - thin
+pleasure - fat
+terrible - thin",gpt4o,health,weight,instruction1
+49,"nasty - thin
+agony - thin
+joy - fat
+awful - thin
+love - fat
+terrible - thin
+glorious - fat
+wonderful - fat
+evil - thin
+peace - fat
+laughter - fat
+pleasure - fat
+horrible - thin
+failure - thin
+hurt - thin
+happy - fat",gpt4o,health,weight,instruction1

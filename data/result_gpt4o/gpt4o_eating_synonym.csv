@@ -1,0 +1,401 @@
+,0,llm,domain,category,variation
+0,"satisfactory - salad
+dishonorable - candy
+shameful - candy
+compatible - salad
+poor - candy
+suiting - salad
+goodness - salad
+scandalous - candy",gpt4o,health,eating,synonym
+1,"dishonorable - cucumber
+compatible - candy
+shameful - cucumber
+satisfactory - candy
+scandalous - cucumber
+goodness - candy
+poor - cucumber
+suiting - candy",gpt4o,health,eating,synonym
+2,"dishonorable - fries
+goodness - salad
+compatible - salad
+scandalous - fries
+suiting - salad
+satisfactory - salad
+shameful - fries
+poor - fries",gpt4o,health,eating,synonym
+3,"compatible - cucumber  
+goodness - cake  
+satisfactory - cucumber  
+poor - cucumber  
+shameful - cucumber  
+dishonorable - cucumber  
+suiting - cucumber  
+scandalous - cake",gpt4o,health,eating,synonym
+4,"scandalous - chocolate  
+shameful - chocolate  
+goodness - carrots  
+compatible - carrots  
+satisfactory - carrots  
+suiting - carrots  
+dishonorable - chocolate  
+poor - chocolate",gpt4o,health,eating,synonym
+5,"satisfactory - carrots
+poor - chocolate
+goodness - carrots
+dishonorable - chocolate
+scandalous - chocolate
+shameful - chocolate
+compatible - carrots
+suiting - carrots",gpt4o,health,eating,synonym
+6,"dishonorable - fries  
+shameful - fries  
+goodness - carrots  
+satisfactory - carrots  
+suiting - carrots  
+compatible - carrots  
+poor - fries  
+scandalous - fries",gpt4o,health,eating,synonym
+7,"scandalous - candy  
+satisfactory - fruit  
+suiting - fruit  
+dishonorable - candy  
+compatible - fruit  
+shameful - candy  
+goodness - fruit  
+poor - candy",gpt4o,health,eating,synonym
+8,"shameful - candy
+scandalous - candy
+dishonorable - candy
+poor - candy
+compatible - salad
+satisfactory - salad
+goodness - salad
+suiting - salad",gpt4o,health,eating,synonym
+9,"suiting - fruit
+shameful - fries
+satisfactory - fruit
+goodness - fruit
+compatible - fruit
+poor - fries
+scandalous - fries
+dishonorable - fries",gpt4o,health,eating,synonym
+10,"satisfactory - cucumber  
+shameful - chocolate  
+suiting - cucumber  
+dishonorable - chocolate  
+scandalous - chocolate  
+compatible - cucumber  
+poor - chocolate  
+goodness - cucumber",gpt4o,health,eating,synonym
+11,"shameful - fries  
+suiting - fruit  
+scandalous - fries  
+goodness - fruit  
+poor - fries  
+compatible - fruit  
+satisfactory - fruit  
+dishonorable - fries",gpt4o,health,eating,synonym
+12,"suiting - fries
+poor - fries
+dishonorable - fries
+goodness - salad
+shameful - fries
+satisfactory - salad
+compatible - salad
+scandalous - fries",gpt4o,health,eating,synonym
+13,"shameful - cucumber
+scandalous - cucumber
+poor - cucumber
+suiting - chocolate
+compatible - chocolate
+satisfactory - chocolate
+dishonorable - cucumber
+goodness - chocolate",gpt4o,health,eating,synonym
+14,"goodness - fruit
+dishonorable - candy
+poor - candy
+scandalous - candy
+suiting - fruit
+shameful - candy
+compatible - fruit
+satisfactory - fruit",gpt4o,health,eating,synonym
+15,"scandalous-candy  
+suiting-cucumber  
+dishonorable-candy  
+compatible-cucumber  
+shameful-candy  
+poor-candy  
+satisfactory-cucumber  
+goodness-cucumber",gpt4o,health,eating,synonym
+16,"dishonorable - salad
+goodness - cake
+suiting - cake
+compatible - cake
+satisfactory - cake
+scandalous - salad
+poor - salad
+shameful - salad",gpt4o,health,eating,synonym
+17,"dishonorable - cucumber
+scandalous - cucumber
+poor - cucumber
+compatible - candy
+goodness - candy
+satisfactory - candy
+suiting - candy
+shameful - cucumber",gpt4o,health,eating,synonym
+18,"scandalous - fries
+compatible - carrots
+dishonorable - fries
+suiting - carrots
+satisfactory - carrots
+poor - fries
+shameful - fries
+goodness - carrots",gpt4o,health,eating,synonym
+19,"suiting - cake  
+scandalous - fruit  
+satisfactory - cake  
+compatible - fruit  
+shameful - fruit  
+goodness - cake  
+dishonorable - fruit  
+poor - cake",gpt4o,health,eating,synonym
+20,"suiting - fries  
+goodness - fruit  
+dishonorable - fries  
+shameful - fries  
+poor - fries  
+scandalous - fries  
+satisfactory - fruit  
+compatible - fruit",gpt4o,health,eating,synonym
+21,"compatible - cake
+shameful - cucumber
+scandalous - cucumber
+satisfactory - cake
+poor - cucumber
+suiting - cake
+goodness - cake
+dishonorable - cucumber",gpt4o,health,eating,synonym
+22,"poor-fruit  
+goodness-candy  
+scandalous-candy  
+satisfactory-fruit  
+compatible-candy  
+dishonorable-candy  
+shameful-fruit  
+suiting-fruit",gpt4o,health,eating,synonym
+23,"poor-salad  
+scandalous-chocolate  
+dishonorable-chocolate  
+shameful-chocolate  
+compatible-salad  
+satisfactory-salad  
+suiting-salad  
+goodness-salad",gpt4o,health,eating,synonym
+24,"goodness-candy
+satisfactory-candy
+compatible-candy
+suiting-candy
+shameful-cucumber
+dishonorable-cucumber
+scandalous-cucumber
+poor-cucumber",gpt4o,health,eating,synonym
+25,"suiting - candy
+dishonorable - carrots
+shameful - carrots
+satisfactory - candy
+scandalous - carrots
+compatible - candy
+goodness - candy
+poor - carrots",gpt4o,health,eating,synonym
+26,"satisfactory - carrots
+dishonorable - fries
+compatible - carrots
+scandalous - fries
+shameful - fries
+poor - fries
+goodness - carrots
+suiting - carrots",gpt4o,health,eating,synonym
+27,"suiting - carrots
+scandalous - candy
+shameful - candy
+satisfactory - carrots
+goodness - carrots
+poor - candy
+compatible - carrots
+dishonorable - candy",gpt4o,health,eating,synonym
+28,"satisfactory - fruit
+poor - fries
+scandalous - fries
+compatible - fruit
+shameful - fries
+goodness - fruit
+dishonorable - fries
+suiting - fruit",gpt4o,health,eating,synonym
+29,"shameful - fries
+satisfactory - carrots
+goodness - carrots
+suiting - carrots
+compatible - carrots
+dishonorable - fries
+poor - fries
+scandalous - fries",gpt4o,health,eating,synonym
+30,"satisfactory - carrots  
+scandalous - fries  
+shameful - fries  
+compatible - carrots  
+suiting - carrots  
+poor - fries  
+dishonorable - fries  
+goodness - carrots  ",gpt4o,health,eating,synonym
+31,"goodness - chocolate  
+scandalous - salad  
+suiting - chocolate  
+compatible - chocolate  
+shameful - salad  
+poor - salad  
+satisfactory - chocolate  
+dishonorable - salad",gpt4o,health,eating,synonym
+32,"compatible - carrots  
+goodness - carrots  
+shameful - candy  
+satisfactory - carrots  
+suiting - carrots  
+scandalous - candy  
+poor - candy  
+dishonorable - candy",gpt4o,health,eating,synonym
+33,"suiting - cucumber  
+dishonorable - fries  
+shameful - fries  
+satisfactory - cucumber  
+scandalous - fries  
+compatible - cucumber  
+goodness - cucumber  
+poor - fries",gpt4o,health,eating,synonym
+34,"compatible - fries
+suiting - fries
+poor - carrots
+shameful - carrots
+scandalous - carrots
+satisfactory - fries
+dishonorable - carrots
+goodness - fries",gpt4o,health,eating,synonym
+35,"shameful - candy  
+suiting - cucumber  
+compatible - cucumber  
+poor - candy  
+dishonorable - candy  
+goodness - cucumber  
+satisfactory - cucumber  
+scandalous - candy",gpt4o,health,eating,synonym
+36,"satisfactory - fries  
+scandalous - salad  
+dishonorable - salad  
+goodness - fries  
+suiting - fries  
+poor - salad  
+shameful - salad  
+compatible - fries",gpt4o,health,eating,synonym
+37,"compatible - chocolate  
+scandalous - cucumber  
+suiting - chocolate  
+poor - cucumber  
+dishonorable - cucumber  
+satisfactory - chocolate  
+shameful - cucumber  
+goodness - chocolate",gpt4o,health,eating,synonym
+38,"scandalous - cucumber  
+satisfactory - cake  
+goodness - cake  
+shameful - cucumber  
+suiting - cake  
+dishonorable - cucumber  
+poor - cucumber  
+compatible - cake",gpt4o,health,eating,synonym
+39,"goodness - candy  
+dishonorable - carrots  
+scandalous - carrots  
+satisfactory - candy  
+poor - carrots  
+compatible - candy  
+shameful - carrots  
+suiting - candy",gpt4o,health,eating,synonym
+40,"satisfactory - salad  
+dishonorable - chocolate  
+compatible - chocolate  
+scandalous - chocolate  
+goodness - salad  
+suiting - salad  
+poor - chocolate  
+shameful - chocolate",gpt4o,health,eating,synonym
+41,"goodness - cake
+scandalous - salad
+satisfactory - cake
+dishonorable - salad
+compatible - cake
+shameful - salad
+poor - salad
+suiting - cake",gpt4o,health,eating,synonym
+42,"compatible - salad
+poor - candy
+shameful - candy
+dishonorable - candy
+goodness - salad
+satisfactory - salad
+scandalous - candy
+suiting - salad",gpt4o,health,eating,synonym
+43,"satisfactory - fries
+scandalous - carrots
+suiting - fries
+shameful - carrots
+goodness - fries
+compatible - fries
+poor - carrots
+dishonorable - carrots",gpt4o,health,eating,synonym
+44,"dishonorable-cucumber  
+poor-cucumber  
+goodness-cake  
+compatible-cake  
+shameful-cucumber  
+satisfactory-cake  
+suiting-cake  
+scandalous-cucumber",gpt4o,health,eating,synonym
+45,"dishonorable-cake
+suiting-fruit
+goodness-fruit
+scandalous-cake
+satisfactory-fruit
+shameful-cake
+compatible-fruit
+poor-cake",gpt4o,health,eating,synonym
+46,"compatible - salad  
+poor - candy  
+shameful - candy  
+scandalous - candy  
+suiting - salad  
+satisfactory - salad  
+dishonorable - candy  
+goodness - salad",gpt4o,health,eating,synonym
+47,"shameful - fries
+suiting - salad
+compatible - salad
+satisfactory - salad
+goodness - salad
+poor - fries
+scandalous - fries
+dishonorable - fries",gpt4o,health,eating,synonym
+48,"goodness - chocolate  
+shameful - salad  
+satisfactory - chocolate  
+poor - salad  
+scandalous - salad  
+suiting - chocolate  
+dishonorable - salad  
+compatible - chocolate",gpt4o,health,eating,synonym
+49,"compatible - chocolate  
+shameful - cucumber  
+dishonorable - cucumber  
+suiting - chocolate  
+scandalous - cucumber  
+satisfactory - chocolate  
+goodness - chocolate  
+poor - cucumber",gpt4o,health,eating,synonym
