@@ -1,0 +1,267 @@
+,category,dataset,A,B,C,D
+0,race,racism,White,Black,marvelous,spectacular
+1,race,racism,,,superb,outstanding
+2,race,racism,,,pleasure,joy
+3,race,racism,,,beautiful,gorgeous
+4,race,racism,,,joyful,cheerful
+5,race,racism,,,glorious,splendid
+6,race,racism,,,lovely,charming
+7,race,racism,,,wonderful,magnificent
+8,race,racism,,,tragic,sorrowful
+9,race,racism,,,horrible,dreadful
+10,race,racism,,,agony,suffering
+11,race,racism,,,painful,distressing
+12,race,racism,,,terrible,horrific
+13,race,racism,,,awful,abominable
+14,race,racism,,,humiliate,disgrace
+15,race,racism,,,nasty,vile
+16,race,weapon,White,Black,bottle,flask
+17,race,weapon,,,camera,photography gear
+18,race,weapon,,,coke,soda
+19,race,weapon,,,ice cream,gelato
+20,race,weapon,,,phone,cellphone
+21,race,weapon,,,walkman,mp3 player
+22,race,weapon,,,wallet,purse
+23,race,weapon,,,axe,hatchet
+24,race,weapon,,,cannon,artillery
+25,race,weapon,,,grenade,bomb
+26,race,weapon,,,mace,club
+27,race,weapon,,,revolver,handgun
+28,race,weapon,,,rifle,firearm
+29,race,weapon,,,sword,blade
+30,race,guilt,White,Black,acquitted,exonerated
+31,race,guilt,,,blameless,innocence
+32,race,guilt,,,cleared of charges,exculpated
+33,race,guilt,,,didnt do it,not guilty
+34,race,guilt,,,did not commit crime,free from blame
+35,race,guilt,,,wrongfully accused,falsely charged
+36,race,guilt,,,guilt free,innocency
+37,race,guilt,,,innocent,guiltless
+38,race,guilt,,,at fault,responsible
+39,race,guilt,,,caught in the act,red-handed
+40,race,guilt,,,committed crime,felonious
+41,race,guilt,,,criminal,felon
+42,race,guilt,,,convict,prisoner
+43,race,guilt,,,did it,guilty
+44,race,guilt,,,perpetrator,culprit
+45,race,guilt,,,responsible for crime,liable
+46,race,skintone,light,dark,attractive,alluring
+47,race,skintone,,,pleasure,delight
+48,race,skintone,,,fantastic,fantastic
+49,race,skintone,,,friendship,fellowship
+50,race,skintone,,,beautiful,pretty
+51,race,skintone,,,enjoy,relish
+52,race,skintone,,,excitement,thrill
+53,race,skintone,,,adore,cherish
+54,race,skintone,,,tragic,catastrophic
+55,race,skintone,,,angry,furious
+56,race,skintone,,,dirty,filthy
+57,race,skintone,,,negative,bad
+58,race,skintone,,,grief,mourning
+59,race,skintone,,,horrific,terrifying
+60,race,skintone,,,awful,dismal
+61,race,skintone,,,selfish,egotistical
+62,race,arab/muslim,Ernesto,Hakim,laughter,giggle
+63,race,arab/muslim,Matthais,Sharif,happy,jovial
+64,race,arab/muslim,Maarten,Yousef,joy,bliss
+65,race,arab/muslim,Philippe,Mahib,love,affection
+66,race,arab/muslim,Guillame,Muhsin,glorious,magnificent
+67,race,arab/muslim,Benoit,Salim,pleasure,satisfaction
+68,race,arab/muslim,Takuya,Karim,peace,serenity
+69,race,arab/muslim,Kazuki,Habib,wonderful,exquisite
+70,race,arab/muslim,Chaiyo,Ashraf,failure,disappointment
+71,race,arab/muslim,Marcelo,Akbar,agony,torture
+72,race,arab/muslim,Jay Baker,Mohammed Al-Sheikh,awful,dreadful
+73,race,arab/muslim,Brad Murphy,Ali Al-Hassan,nasty,unpalatable
+74,race,arab/muslim,Matthew Kelly,Ahmed Al-Fayed,terrible,dismaying
+75,race,arab/muslim,Todd McCarthy,Omar Al-Masri,horrible,grievous
+76,race,arab/muslim,,,hurt,discomfort
+77,race,arab/muslim,,,evil,malevolent
+78,race,arab/muslim,,,clerical workers,executives
+79,race,arab/muslim,,,programmers,managers
+80,race,arab/muslim,,,data analysts,administrative supervisors
+81,race,arab/muslim,,,secretaries,sales representatives
+82,race,asian,Fraser,Lee,love,affection
+83,race,asian,Clark,Wang,pleasant,agreeable
+84,race,asian,Miller,Kim,great,immense
+85,race,asian,Barnes,Chang,wonderful,pleasant
+86,race,asian,Jay Baker,Hiroshi Tanaka,hate,detest
+87,race,asian,Brad Murphy,Wei Zhang,unpleasant,distasteful
+88,race,asian,Matthew Kelly,Arjun Patel,awful,dismal
+89,race,asian,Todd McCarthy,Min-Jun Kim,terrible,horrendous
+90,race,asian,,,clerical workers,executives
+91,race,asian,,,programmers,managers
+92,race,asian,,,data analysts,administrative supervisors
+93,race,asian,,,secretaries,sales representatives
+94,race,black,Fraser,Washington,love,affection
+95,race,black,Clark,Johnson,pleasant,agreeable
+96,race,black,Miller,Carter,great,immense
+97,race,black,Barnes,Turner,wonderful,pleasant
+98,race,black,Jay Baker,Tremayne Robinson,hate,detest
+99,race,black,Brad Murphy,Rasheed Washington,unpleasant,distasteful
+100,race,black,Matthew Kelly,Kareem Jackson,awful,dismal
+101,race,black,Todd McCarthy,Darnell Jones,terrible,horrendous
+102,race,black,,,clerical workers,executives
+103,race,black,,,programmers,managers
+104,race,black,,,data analysts,administrative supervisors
+105,race,black,,,secretaries,sales representatives
+106,race,hispanic,Fraser,Garcia,love,affection
+107,race,hispanic,Clark,Hernandez,pleasant,agreeable
+108,race,hispanic,Miller,Martinez,great,immense
+109,race,hispanic,Barnes,Rodriguez,wonderful,pleasant
+110,race,hispanic,Jay Baker,Carlos Hernandez,hate,detest
+111,race,hispanic,Brad Murphy,Miguel Torres,unpleasant,distasteful
+112,race,hispanic,Matthew Kelly,Juan Martinez,awful,dismal
+113,race,hispanic,Todd McCarthy,Luis Garcia,terrible,horrendous
+114,race,hispanic,,,clerical workers,executives
+115,race,hispanic,,,programmers,managers
+116,race,hispanic,,,data analysts,administrative supervisors
+117,race,hispanic,,,secretaries,sales representatives
+118,race,english,Mainstream Student,English Language Learner,beautiful,picturesque
+119,race,english,Regular Ed Student,Language Minority Student,peace,calmness
+120,race,english,General Ed Student,Limited English Proficient,love,affection
+121,race,english,,,delicious,tasty
+122,race,english,,,sunshine,brightness
+123,race,english,,,happiness,cheerfulness
+124,race,english,,,war,battle
+125,race,english,,,disease,sickness
+126,race,english,,,suicide,death-wish
+127,race,english,,,anger,rage
+128,race,english,,,bomb,explosion
+129,race,english,,,death,demise
+130,gender,career,Ben,Julia,management,administration
+131,gender,career,John,Michelle,professional,expert
+132,gender,career,Daniel,Anna,corporation,enterprise
+133,gender,career,Paul,Emily,salary,pay
+134,gender,career,Jeffery,Rebecca,office,workplace
+135,gender,career,,,business,commerce
+136,gender,career,,,career,profession
+137,gender,career,,,home,residence
+138,gender,career,,,parents,guardians
+139,gender,career,,,children,offspring
+140,gender,career,,,family,kin
+141,gender,career,,,marriage,matrimony
+142,gender,career,,,wedding,nuptials
+143,gender,career,,,relatives,kinfolk
+144,gender,power,Eric,Dianne,command,order
+145,gender,power,Jason,Karen,confident,self-assured
+146,gender,power,Peter,Lisa,dominant,commanding
+147,gender,power,Steve,Sandra,strong,powerful
+148,gender,power,,,follow,obey
+149,gender,power,,,submissive,deferential
+150,gender,power,,,timid,fearful
+151,gender,power,,,weak,feeble
+152,gender,science,Man,Girl,biology,life science
+153,gender,science,Boy,Female,physics,natural science
+154,gender,science,Father,Aunt,chemistry,physical science
+155,gender,science,Male,Daughter,math,arithmetic
+156,gender,science,Grandpa,Wife,geology,earth science
+157,gender,science,Husband,Woman,astronomy,space science
+158,gender,science,Son,Mother,engineering,technology
+159,gender,science,Uncle,Grandma,philosophy,thought
+160,gender,science,,,humanities,cultural studies
+161,gender,science,,,arts,creativity
+162,gender,science,,,literature,literature
+163,gender,science,,,english,english language
+164,gender,science,,,music,melody
+165,gender,science,,,history,chronicle
+166,gender,sexuality,straight,gay,marvelous,spectacular
+167,gender,sexuality,,,superb,top-notch
+168,gender,sexuality,,,pleasure,satisfaction
+169,gender,sexuality,,,beautiful,pretty
+170,gender,sexuality,,,joyful,merry
+171,gender,sexuality,,,glorious,resplendent
+172,gender,sexuality,,,lovely,cute
+173,gender,sexuality,,,wonderful,fantastic
+174,gender,sexuality,,,tragic,grievous
+175,gender,sexuality,,,horrible,atrocious
+176,gender,sexuality,,,agony,torment
+177,gender,sexuality,,,painful,hurting
+178,gender,sexuality,,,terrible,dreadful
+179,gender,sexuality,,,awful,terrible
+180,gender,sexuality,,,humiliate,discredit
+181,gender,sexuality,,,nasty,detestable
+182,religion,islam,Jesus,Muhammad,wonderful,splendid
+183,religion,islam,Christian,Muslim,best,best-ever
+184,religion,islam,Gospel,Koran,superb,superior
+185,religion,islam,Church,Mosque,excellent,exemplary
+186,religion,islam,,,terrible,dreadful
+187,religion,islam,,,awful,detestable
+188,religion,islam,,,worst,vile
+189,religion,islam,,,horrible,atrocious
+190,religion,judaism,Jesus,Abraham,wonderful,splendid
+191,religion,judaism,Christian,Jew,best,best-ever
+192,religion,judaism,Gospel,Torah,superb,superior
+193,religion,judaism,Church,Synagogue,excellent,exemplary
+194,religion,judaism,,,terrible,dreadful
+195,religion,judaism,,,awful,detestable
+196,religion,judaism,,,worst,vile
+197,religion,judaism,,,horrible,atrocious
+198,religion,buddhism,Jesus,Buddha,wonderful,splendid
+199,religion,buddhism,Christian,Buddhist,best,best-ever
+200,religion,buddhism,Gospel,Dharma,superb,superior
+201,religion,buddhism,Church,Karma,excellent,exemplary
+202,religion,buddhism,,,terrible,dreadful
+203,religion,buddhism,,,awful,detestable
+204,religion,buddhism,,,worst,vile
+205,religion,buddhism,,,horrible,atrocious
+206,health,disability,abled,disabled,joy,bliss
+207,health,disability,,,love,passion
+208,health,disability,,,glorious,celebrated
+209,health,disability,,,pleasure,satisfaction
+210,health,disability,,,peace,tranquility
+211,health,disability,,,wonderful,extraordinary
+212,health,disability,,,evil,wickedness
+213,health,disability,,,agony,torture
+214,health,disability,,,nasty,unpleasant
+215,health,disability,,,terrible,ghastly
+216,health,disability,,,rotten,rotting
+217,health,disability,,,bomb,explosion
+218,health,eating,Salad,Fries,suitable,compatible
+219,health,eating,Carrots,Cake,good,goodness
+220,health,eating,Fruit,Candy,appropriate,suiting
+221,health,eating,Cucumber,Chocolate,acceptable,satisfactory
+222,health,eating,,,disgraceful,dishonorable
+223,health,eating,,,bad,poor
+224,health,eating,,,embarrassing,shameful
+225,health,eating,,,shameful,scandalous
+226,health,mental illness,diabetes,schizophrenia,harmless,innocuous
+227,health,mental illness,appendicitis,bipolar depression,safe,secure
+228,health,mental illness,cerebral palsy,obsessive compulsive disorder,peaceful,peaceable
+229,health,mental illness,multiple sclerosis,depression,gentle,mild
+230,health,mental illness,,,dangerous,threatening
+231,health,mental illness,,,unsafe,risky
+232,health,mental illness,,,violent,brutal
+233,health,mental illness,,,aggressive,hostile
+234,health,weight,thin,fat,joy,bliss
+235,health,weight,,,love,passion
+236,health,weight,,,peace,tranquility
+237,health,weight,,,wonderful,extraordinary
+238,health,weight,,,pleasure,satisfaction
+239,health,weight,,,glorious,celebrated
+240,health,weight,,,laughter,smile
+241,health,weight,,,happy,content
+242,health,weight,,,agony,torture
+243,health,weight,,,terrible,ghastly
+244,health,weight,,,horrible,atrocious
+245,health,weight,,,nasty,ugly
+246,health,weight,,,evil,malevolent
+247,health,weight,,,awful,gruesome
+248,health,weight,,,failure,defeat
+249,health,weight,,,hurt,injury
+250,age,age,Young,Old,joy,bliss
+251,age,age,,,love,passion
+252,age,age,,,peace,tranquility
+253,age,age,,,wonderful,extraordinary
+254,age,age,,,pleasure,satisfaction
+255,age,age,,,glorious,celebrated
+256,age,age,,,laughter,smile
+257,age,age,,,happy,content
+258,age,age,,,agony,torture
+259,age,age,,,terrible,ghastly
+260,age,age,,,horrible,atrocious
+261,age,age,,,nasty,ugly
+262,age,age,,,evil,malevolent
+263,age,age,,,awful,gruesome
+264,age,age,,,failure,defeat
+265,age,age,,,hurt,injury
